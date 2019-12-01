@@ -1,7 +1,7 @@
-# Custo mínimo Triangulação
+# Menor Custo de Triangulação
 
-**Número da Lista**: 5<br>
-**Conteúdo da Disciplina**: Programação Dinâmica<br>
+**Número da Lista**: 5
+**Conteúdo da Disciplina**: Programaço Dinâmica<br>
 
 ## Alunos
 |Matrícula | Aluno |
@@ -10,7 +10,7 @@
 | 16/0013143 |  Lucas Penido Antunes |
 
 ## Sobre 
-O algorítmo de triangulação de polígono com mínimo custo pressupõe o desenho de diagonais entre dois vértices não adjacentes de modo que as diagonais nunca se cruzem. 
+Projeto com o objetivo de calcular a menor triângulação dada um polígono convexo utilizando um algorítimo de programação dinâmica.
 
 ## Screenshots
 ![](https://i.ibb.co/sQsXYqg/f2.png)
@@ -18,15 +18,11 @@ O algorítmo de triangulação de polígono com mínimo custo pressupõe o desen
 ![](https://i.ibb.co/kmzsnnS/f4.png)
 
 ## Instalação 
-**Linguagem**: Python <br>
-- Clonar o repositório
-- Entrar na pasta do projeto, por meio do terminal linux
-- Rodar python3 main.py
+**Linguagem**: Python<br>
 
 ## Uso 
-Basta ir clicando na tela e os triângulos de menor custo serão desenhados
-
-
+sudo apt-get install python3-pyqt5
+python3 main.py
 
 
 
